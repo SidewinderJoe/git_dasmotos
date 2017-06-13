@@ -1,0 +1,42 @@
+html {
+    font-family: Helvetica;
+}
+
+#header {
+    background-image: url("../img/pattern.jpg");
+}
+
+#header h1 {
+    font-size: 100px;
+    font-weight: bold;
+    color: khaki;
+    text-align: center;
+}
+
+#rectangle1 {
+    width: auto;
+    height: 35px;
+    background-color: mediumspringgreen;
+}
+
+#rectangle2 {
+    width: auto;
+    height: 35px;
+    background-color: lightcoral;
+}
+
+#rectangle3 {
+    width: auto;
+    height: 35px;
+    background-color: skyblue;
+}
+
+.sub-header {
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+}
+
+.price {
+    color: blue;
+}
